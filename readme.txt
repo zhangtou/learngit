@@ -3,4 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 dev branch
 
-feature1 branch feat
+
+feature1 branch
+
